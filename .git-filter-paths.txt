@@ -1,0 +1,10 @@
+chroma_db/
+chroma.sqlite3
+*.sqlite3
+saarthi_data/pdfs/
+incometax_notifications/pdfs/
+**/pdfs/
+*.pdf
+.venv/
+__pycache__/
+.DS_Store

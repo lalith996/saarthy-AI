@@ -1,0 +1,10 @@
+chroma_db/
+*.sqlite3
+*.db
+*.pdf
+.venv/
+__pycache__/
+.DS_Store
+notifications_run.log
+*.log
+chroma.sqlite3
