@@ -1,0 +1,141 @@
+2026-04-26 11:20:02,979 [WARNING] OCR not available -- image-only PDFs will be marked 'low_content'.
+To enable: pip install pdf2image pytesseract
+System deps: sudo apt install poppler-utils tesseract-ocr  (or brew install)
+2026-04-26 11:20:06,328 [INFO]   [RBI] master_circular: 0 new PDFs downloaded
+2026-04-26 11:20:09,589 [INFO]   [RBI] standalone_circular: 0 new PDFs downloaded
+2026-04-26 11:20:09,590 [INFO] 
+[IT] Checking confirmed-live IT PDFs...
+2026-04-26 11:20:09,590 [INFO]   [IT] 0 new PDFs downloaded (0 retried, 0 dead URLs attempted)
+2026-04-26 11:20:09,590 [INFO] 
+[Schemes] Checking confirmed-live scheme PDFs...
+2026-04-26 11:20:09,590 [INFO]   [Schemes] 0 new PDFs downloaded
+2026-04-26 11:20:09,590 [INFO] 
+[Main] No new PDFs found -- corpus is up to date
+2026-04-26 11:20:09,590 [INFO] 
+[Extract] Processing 27 records...
+2026-04-26 11:20:09,593 [INFO]   Extracting: it_circular_circular_no_6_of_2024_tds_tcs.pdf
+2026-04-26 11:20:09,595 [WARNING]   Low text (0 chars) in it_circular_circular_no_6_of_2024_tds_tcs.pdf. PDF may be image-only.
+  Install OCR: pip install pdf2image pytesseract && sudo apt install poppler-utils tesseract-ocr
+2026-04-26 11:20:09,596 [WARNING]   Low content: it_circular_circular_no_6_of_2024_tds_tcs.pdf
+2026-04-26 11:20:09,596 [INFO] [Extract] Done -- extracted: 0, already done (silent): 26, failed: 1
+2026-04-26 11:20:09,597 [INFO] 
+[Main] Done. Data at: /Users/lalithmachavarapu/Desktop/NLP/saarthi_data
+2026-04-26 11:20:09,781 [WARNING] OCR not available -- image-only PDFs will be marked 'low_content'.
+To enable: pip install pdf2image pytesseract
+System deps: sudo apt install poppler-utils tesseract-ocr  (or brew install)
+2026-04-26 11:20:12,564 [INFO]   [RBI] master_circular: 0 new PDFs downloaded
+2026-04-26 11:20:16,405 [INFO]   [RBI] standalone_circular: 0 new PDFs downloaded
+2026-04-26 11:20:16,405 [INFO] 
+[Main] No new PDFs found -- corpus is up to date
+2026-04-26 11:20:16,405 [INFO] 
+[Extract] Processing 27 records...
+2026-04-26 11:20:16,406 [INFO]   Extracting: it_circular_circular_no_6_of_2024_tds_tcs.pdf
+2026-04-26 11:20:16,407 [WARNING]   Low text (0 chars) in it_circular_circular_no_6_of_2024_tds_tcs.pdf. PDF may be image-only.
+  Install OCR: pip install pdf2image pytesseract && sudo apt install poppler-utils tesseract-ocr
+2026-04-26 11:20:16,407 [WARNING]   Low content: it_circular_circular_no_6_of_2024_tds_tcs.pdf
+2026-04-26 11:20:16,408 [INFO] [Extract] Done -- extracted: 0, already done (silent): 26, failed: 1
+2026-04-26 11:20:16,408 [INFO] 
+[Main] Done. Data at: /Users/lalithmachavarapu/Desktop/NLP/saarthi_data
+2026-04-26 11:20:16,537 [WARNING] OCR not available -- image-only PDFs will be marked 'low_content'.
+To enable: pip install pdf2image pytesseract
+System deps: sudo apt install poppler-utils tesseract-ocr  (or brew install)
+2026-04-26 11:20:16,537 [INFO] 
+[IT] Checking confirmed-live IT PDFs...
+2026-04-26 11:20:16,537 [INFO]   [IT] 0 new PDFs downloaded (0 retried, 0 dead URLs attempted)
+2026-04-26 11:20:16,537 [INFO] 
+[Main] No new PDFs found -- corpus is up to date
+2026-04-26 11:20:16,537 [INFO] 
+[Extract] Processing 27 records...
+2026-04-26 11:20:16,538 [INFO]   Extracting: it_circular_circular_no_6_of_2024_tds_tcs.pdf
+2026-04-26 11:20:16,539 [WARNING]   Low text (0 chars) in it_circular_circular_no_6_of_2024_tds_tcs.pdf. PDF may be image-only.
+  Install OCR: pip install pdf2image pytesseract && sudo apt install poppler-utils tesseract-ocr
+2026-04-26 11:20:16,539 [WARNING]   Low content: it_circular_circular_no_6_of_2024_tds_tcs.pdf
+2026-04-26 11:20:16,539 [INFO] [Extract] Done -- extracted: 0, already done (silent): 26, failed: 1
+2026-04-26 11:20:16,540 [INFO] 
+[Main] Done. Data at: /Users/lalithmachavarapu/Desktop/NLP/saarthi_data
+2026-04-26 11:20:16,659 [WARNING] OCR not available -- image-only PDFs will be marked 'low_content'.
+To enable: pip install pdf2image pytesseract
+System deps: sudo apt install poppler-utils tesseract-ocr  (or brew install)
+2026-04-26 11:20:16,660 [INFO] 
+[Schemes] Checking confirmed-live scheme PDFs...
+2026-04-26 11:20:16,660 [INFO]   [Schemes] 0 new PDFs downloaded
+2026-04-26 11:20:16,663 [INFO] 
+[Main] No new PDFs found -- corpus is up to date
+2026-04-26 11:20:16,663 [INFO] 
+[Extract] Processing 27 records...
+2026-04-26 11:20:16,663 [INFO]   Extracting: it_circular_circular_no_6_of_2024_tds_tcs.pdf
+2026-04-26 11:20:16,665 [WARNING]   Low text (0 chars) in it_circular_circular_no_6_of_2024_tds_tcs.pdf. PDF may be image-only.
+  Install OCR: pip install pdf2image pytesseract && sudo apt install poppler-utils tesseract-ocr
+2026-04-26 11:20:16,665 [WARNING]   Low content: it_circular_circular_no_6_of_2024_tds_tcs.pdf
+2026-04-26 11:20:16,665 [INFO] [Extract] Done -- extracted: 0, already done (silent): 26, failed: 1
+2026-04-26 11:20:16,666 [INFO] 
+[Main] Done. Data at: /Users/lalithmachavarapu/Desktop/NLP/saarthi_data
+2026-04-26 11:20:16,787 [WARNING] OCR not available -- image-only PDFs will be marked 'low_content'.
+To enable: pip install pdf2image pytesseract
+System deps: sudo apt install poppler-utils tesseract-ocr  (or brew install)
+2026-04-26 11:20:18,980 [INFO]   [RBI] master_circular: 0 new PDFs downloaded
+2026-04-26 11:20:21,661 [INFO]   [RBI] standalone_circular: 0 new PDFs downloaded
+2026-04-26 11:20:21,661 [INFO] 
+[IT] Checking confirmed-live IT PDFs...
+2026-04-26 11:20:21,661 [INFO]   [IT] 0 new PDFs downloaded (0 retried, 0 dead URLs attempted)
+2026-04-26 11:20:21,661 [INFO] 
+[Schemes] Checking confirmed-live scheme PDFs...
+2026-04-26 11:20:21,661 [INFO]   [Schemes] 0 new PDFs downloaded
+2026-04-26 11:20:21,661 [INFO] 
+[Main] No new PDFs found -- corpus is up to date
+2026-04-26 11:20:21,661 [INFO] 
+[Extract] Processing 27 records...
+2026-04-26 11:20:21,662 [INFO]   Extracting: it_circular_circular_no_6_of_2024_tds_tcs.pdf
+2026-04-26 11:20:21,663 [WARNING]   Low text (0 chars) in it_circular_circular_no_6_of_2024_tds_tcs.pdf. PDF may be image-only.
+  Install OCR: pip install pdf2image pytesseract && sudo apt install poppler-utils tesseract-ocr
+2026-04-26 11:20:21,663 [WARNING]   Low content: it_circular_circular_no_6_of_2024_tds_tcs.pdf
+2026-04-26 11:20:21,663 [INFO] [Extract] Done -- extracted: 0, already done (silent): 26, failed: 1
+2026-04-26 11:20:21,664 [INFO] 
+[Main] Done. Data at: /Users/lalithmachavarapu/Desktop/NLP/saarthi_data
+2026-04-26 11:20:21,797 [WARNING] OCR not available -- image-only PDFs will be marked 'low_content'.
+To enable: pip install pdf2image pytesseract
+System deps: sudo apt install poppler-utils tesseract-ocr  (or brew install)
+2026-04-26 11:20:21,798 [INFO] 
+[Extract] Processing 27 records...
+2026-04-26 11:20:21,798 [INFO]   Extracting: it_circular_circular_no_6_of_2024_tds_tcs.pdf
+2026-04-26 11:20:21,800 [WARNING]   Low text (0 chars) in it_circular_circular_no_6_of_2024_tds_tcs.pdf. PDF may be image-only.
+  Install OCR: pip install pdf2image pytesseract && sudo apt install poppler-utils tesseract-ocr
+2026-04-26 11:20:21,800 [WARNING]   Low content: it_circular_circular_no_6_of_2024_tds_tcs.pdf
+2026-04-26 11:20:21,800 [INFO] [Extract] Done -- extracted: 0, already done (silent): 26, failed: 1
+2026-04-26 11:20:21,801 [INFO] 
+[Main] Done. Data at: /Users/lalithmachavarapu/Desktop/NLP/saarthi_data
+2026-05-05 14:20:54,963 [INFO] 
+[Extract] Processing 26 records...
+2026-05-05 14:20:54,965 [INFO]   [skip]  rbi_master_circular_master_circular_on_conduct_of_government_business_by_agency_.txt
+2026-05-05 14:20:54,965 [INFO]   [skip]  rbi_master_circular_master_circular_-_disbursement_of_government_pension_by_agen.txt
+2026-05-05 14:20:54,966 [INFO]   [skip]  rbi_master_circular_master_circular_-_exposure_norms_and_statutory_other_restric.txt
+2026-05-05 14:20:54,966 [INFO]   [skip]  rbi_master_circular_master_circular_-_management_of_advances_-_ucbs_1614_kb.txt
+2026-05-05 14:20:54,966 [INFO]   [skip]  rbi_master_circular_master_circular_-_housing_finance_for_ucbs_1186_kb.txt
+2026-05-05 14:20:54,966 [INFO]   [skip]  rbi_master_circular_master_circular_-_income_recognition_asset_classification_pr.txt
+2026-05-05 14:20:54,966 [INFO]   [skip]  rbi_master_circular_master_circular_-_guarantees_co-acceptances_letters_of_credi.txt
+2026-05-05 14:20:54,968 [INFO]   [skip]  rbi_master_circular_master_circular_-_prudential_norms_on_capital_adequacy_-_pri.txt
+2026-05-05 14:20:54,968 [INFO]   [skip]  rbi_master_circular_master_circular_on_board_of_directors_-_ucbs_1360_kb.txt
+2026-05-05 14:20:54,968 [INFO]   [skip]  rbi_master_circular_master_circular_housing_finance_1146_kb.txt
+2026-05-05 14:20:54,968 [INFO]   [skip]  rbi_master_circular_master_circular_-_bank_finance_to_non-banking_financial_comp.txt
+2026-05-05 14:20:54,968 [INFO]   [skip]  rbi_master_circular_master_circular_-_prudential_norms_on_income_recognition_ass.txt
+2026-05-05 14:20:54,968 [INFO]   [skip]  rbi_master_circular_master_circular_-_guarantees_and_co-acceptances_1220_kb.txt
+2026-05-05 14:20:54,969 [INFO]   [skip]  rbi_master_circular_master_circular_basel_iii_capital_regulations_5265_kb.txt
+2026-05-05 14:20:54,969 [INFO]   [skip]  rbi_master_circular_master_circular_-_credit_facilities_to_scheduled_castes_scs_.txt
+2026-05-05 14:20:54,969 [INFO]   [skip]  rbi_master_circular_master_circular_lead_bank_scheme_1594_kb.txt
+2026-05-05 14:20:54,969 [INFO]   [skip]  rbi_master_circular_master_circular_deendayal_antyodaya_yojana_-_national_rural_.txt
+2026-05-05 14:20:54,969 [INFO]   [skip]  rbi_master_circular_master_circular_on_shg-bank_linkage_programme_172_kb.txt
+2026-05-05 14:20:54,969 [INFO]   [skip]  rbi_master_circular_rbis_vision_and_values.txt
+2026-05-05 14:20:54,969 [INFO]   [skip]  rbi_master_circular_accessibility_statement.txt
+2026-05-05 14:20:54,970 [INFO]   Extracting: it_circular_circular_no_6_of_2024_tds_tcs.pdf
+2026-05-05 14:20:54,972 [INFO]   Low pdfplumber output (0 chars) -- trying OCR
+2026-05-05 14:20:54,972 [WARNING]   OCR not available. Install: pip install pdf2image pytesseract
+2026-05-05 14:20:54,972 [WARNING]   Low content in it_circular_circular_no_6_of_2024_tds_tcs.pdf -- may be image-only
+2026-05-05 14:20:54,973 [INFO]   [skip]  it_notification_refer_notification_income_tax.txt
+2026-05-05 14:20:54,973 [INFO]   [skip]  scheme_pm-kisan_operational_guidelines_english.txt
+2026-05-05 14:20:54,973 [INFO]   [skip]  rbi_standalone_circular_dorpsbd_no140816010672020-2021.txt
+2026-05-05 14:20:54,973 [INFO]   [skip]  rbi_standalone_circular_dorpsbdno140716010672020-2021.txt
+2026-05-05 14:20:54,973 [INFO]   [skip]  rbi_standalone_circular_dorpsbdno140616010672020-21.txt
+2026-05-05 14:20:54,973 [INFO] 
+[Extract] Done -- extracted: 0, skipped: 25, failed: 1
+2026-05-05 14:20:54,974 [INFO] 
+[Main] Done. Data at: /Users/lalithmachavarapu/Desktop/NLP/saarthi_data

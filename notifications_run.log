@@ -1,0 +1,61 @@
+Found total notification records: 11179 across 56 pages
+Page 1/56 | records_seen=200 | unique_files=200 | ok=200 fail=0
+Page 2/56 | records_seen=400 | unique_files=400 | ok=400 fail=0
+Page 3/56 | records_seen=600 | unique_files=600 | ok=600 fail=0
+Page 4/56 | records_seen=800 | unique_files=800 | ok=800 fail=0
+Page 5/56 | records_seen=1000 | unique_files=999 | ok=999 fail=0
+Page 6/56 | records_seen=1200 | unique_files=1199 | ok=1199 fail=0
+Page 7/56 | records_seen=1400 | unique_files=1394 | ok=1394 fail=0
+Page 8/56 | records_seen=1600 | unique_files=1485 | ok=1485 fail=0
+Page 9/56 | records_seen=1800 | unique_files=1539 | ok=1539 fail=0
+Page 10/56 | records_seen=2000 | unique_files=1642 | ok=1642 fail=0
+Page 11/56 | records_seen=2200 | unique_files=1669 | ok=1669 fail=0
+Page 12/56 | records_seen=2400 | unique_files=1745 | ok=1745 fail=0
+Page 13/56 | records_seen=2600 | unique_files=1766 | ok=1766 fail=0
+Page 14/56 | records_seen=2800 | unique_files=1767 | ok=1767 fail=0
+Page 15/56 | records_seen=3000 | unique_files=1767 | ok=1767 fail=0
+Page 16/56 | records_seen=3200 | unique_files=1768 | ok=1768 fail=0
+Page 17/56 | records_seen=3400 | unique_files=1769 | ok=1769 fail=0
+Page 18/56 | records_seen=3600 | unique_files=1770 | ok=1770 fail=0
+Page 19/56 | records_seen=3800 | unique_files=1770 | ok=1770 fail=0
+Page 20/56 | records_seen=4000 | unique_files=1771 | ok=1771 fail=0
+Page 21/56 | records_seen=4200 | unique_files=1771 | ok=1771 fail=0
+Page 22/56 | records_seen=4400 | unique_files=1771 | ok=1771 fail=0
+Page 23/56 | records_seen=4600 | unique_files=1772 | ok=1772 fail=0
+Page 24/56 | records_seen=4800 | unique_files=1772 | ok=1772 fail=0
+Page 25/56 | records_seen=5000 | unique_files=1772 | ok=1772 fail=0
+Page 26/56 | records_seen=5200 | unique_files=1773 | ok=1773 fail=0
+Page 27/56 | records_seen=5400 | unique_files=1773 | ok=1773 fail=0
+Page 28/56 | records_seen=5600 | unique_files=1773 | ok=1773 fail=0
+Page 29/56 | records_seen=5800 | unique_files=1773 | ok=1773 fail=0
+Page 30/56 | records_seen=6000 | unique_files=1774 | ok=1774 fail=0
+Page 31/56 | records_seen=6200 | unique_files=1774 | ok=1774 fail=0
+Page 32/56 | records_seen=6400 | unique_files=1774 | ok=1774 fail=0
+Page 33/56 | records_seen=6600 | unique_files=1775 | ok=1775 fail=0
+Page 34/56 | records_seen=6800 | unique_files=1775 | ok=1775 fail=0
+Page 35/56 | records_seen=7000 | unique_files=1775 | ok=1775 fail=0
+Page 36/56 | records_seen=7200 | unique_files=1775 | ok=1775 fail=0
+Page 37/56 | records_seen=7400 | unique_files=1776 | ok=1776 fail=0
+Page 38/56 | records_seen=7600 | unique_files=1776 | ok=1776 fail=0
+Page 39/56 | records_seen=7800 | unique_files=1776 | ok=1776 fail=0
+Page 40/56 | records_seen=8000 | unique_files=1776 | ok=1776 fail=0
+Page 41/56 | records_seen=8200 | unique_files=1776 | ok=1776 fail=0
+Page 42/56 | records_seen=8400 | unique_files=1776 | ok=1776 fail=0
+Page 43/56 | records_seen=8600 | unique_files=1776 | ok=1776 fail=0
+Page 44/56 | records_seen=8800 | unique_files=1776 | ok=1776 fail=0
+Page 45/56 | records_seen=9000 | unique_files=1776 | ok=1776 fail=0
+Page 46/56 | records_seen=9200 | unique_files=1776 | ok=1776 fail=0
+Page 47/56 | records_seen=9400 | unique_files=1776 | ok=1776 fail=0
+Page 48/56 | records_seen=9600 | unique_files=1776 | ok=1776 fail=0
+Page 49/56 | records_seen=9800 | unique_files=1776 | ok=1776 fail=0
+Page 50/56 | records_seen=10000 | unique_files=1776 | ok=1776 fail=0
+Page 51/56 | records_seen=10200 | unique_files=1776 | ok=1776 fail=0
+Page 52/56 | records_seen=10400 | unique_files=1776 | ok=1776 fail=0
+Page 53/56 | records_seen=10600 | unique_files=1777 | ok=1777 fail=0
+Page 54/56 | records_seen=10800 | unique_files=1777 | ok=1777 fail=0
+Page 55/56 | records_seen=11000 | unique_files=1778 | ok=1778 fail=0
+Page 56/56 | records_seen=11179 | unique_files=1778 | ok=1778 fail=0
+DONE
+ok 1778 fail 0
+pages_skipped 0
+meta /Users/lalithmachavarapu/Desktop/NLP/incometax_notifications/metadata.json

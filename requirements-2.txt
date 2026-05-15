@@ -1,0 +1,26 @@
+# Saarthi-AI Data Collection -- Python Dependencies
+#
+# SETUP (avoids PEP 668 externally-managed-environment error):
+#   python3 -m venv .venv
+#   source .venv/bin/activate        # Linux/Mac
+#   .venv\Scripts\activate           # Windows
+#   pip install -r requirements.txt
+#
+# Then run:
+#   python scraper.py
+
+# Core scraping
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+
+# PDF text extraction
+pdfplumber==0.10.3
+
+# OCR fallback (OPTIONAL -- for image-only/scanned PDFs)
+# Step 1: install system packages first:
+#   Ubuntu/Debian: sudo apt install poppler-utils tesseract-ocr
+#   macOS:         brew install poppler tesseract
+# Step 2: then uncomment and install:
+# pdf2image==1.17.0
+# pytesseract==0.3.10

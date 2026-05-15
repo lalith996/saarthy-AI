@@ -1,0 +1,51 @@
+========================================================================
+SAARTHI-AI -- DATA COLLECTION MANIFEST
+Generated : 2026-05-05 14:20:54
+Total     : 26 documents
+========================================================================
+
+────────────────────────────────────────────────────────────────────────
+  SOURCE  : RBI
+  Docs    : 23   Extracted: 23
+────────────────────────────────────────────────────────────────────────
+  [extracted   ]  master_circular            28,472 ch  Master Circular on Conduct of Government Business 
+  [extracted   ]  master_circular            17,859 ch  Master Circular - Disbursement of Government Pensi
+  [extracted   ]  master_circular            51,981 ch  Master Circular - Exposure Norms and Statutory / O
+  [extracted   ]  master_circular           109,998 ch  Master Circular - Management of Advances - UCBs 16
+  [extracted   ]  master_circular            44,394 ch  Master Circular - Housing Finance for UCBs 1186 kb
+  [extracted   ]  master_circular           101,789 ch  Master Circular - Income Recognition, Asset Classi
+  [extracted   ]  master_circular            28,937 ch  Master Circular - Guarantees, Co-acceptances & Let
+  [extracted   ]  master_circular            71,503 ch  Master Circular - Prudential Norms on Capital Adeq
+  [extracted   ]  master_circular            24,393 ch  Master Circular on Board of Directors - UCBs 1360 
+  [extracted   ]  master_circular            29,354 ch  Master Circular – Housing Finance 1146 kb
+  [extracted   ]  master_circular            16,232 ch  Master Circular - Bank Finance to Non-Banking Fina
+  [extracted   ]  master_circular           164,577 ch  Master Circular - Prudential norms on Income Recog
+  [extracted   ]  master_circular            72,316 ch  Master Circular - Guarantees and Co-acceptances 12
+  [extracted   ]  master_circular           806,478 ch  Master Circular – Basel III Capital Regulations 52
+  [extracted   ]  master_circular            12,734 ch  Master Circular - Credit facilities to Scheduled C
+  [extracted   ]  master_circular           123,147 ch  Master Circular – Lead Bank Scheme 1594 kb
+  [extracted   ]  master_circular            51,274 ch  Master Circular – Deendayal Antyodaya Yojana - Nat
+  [extracted   ]  master_circular            10,103 ch  Master Circular on SHG-Bank Linkage Programme 172 
+  [extracted   ]  master_circular            13,857 ch  RBI’s Vision and Values
+  [extracted   ]  master_circular             1,968 ch  Accessibility Statement
+  [extracted   ]  standalone_circular             0 ch  DOR.PSBD No.1408/16.01.067/2020-2021
+  [extracted   ]  standalone_circular             0 ch  DOR.PSBD.No.1407/16.01.067/2020-2021
+  [extracted   ]  standalone_circular             0 ch  DOR/PSBD.No.1406/16.01.067/2020-21
+
+────────────────────────────────────────────────────────────────────────
+  SOURCE  : INCOME_TAX
+  Docs    : 2   Extracted: 1
+────────────────────────────────────────────────────────────────────────
+  [low_content ]  circular                        0 ch  Circular No 6 of 2024 TDS TCS
+  [extracted   ]  notification                    0 ch  Refer Notification Income Tax
+
+────────────────────────────────────────────────────────────────────────
+  SOURCE  : SCHEMES
+  Docs    : 1   Extracted: 1
+────────────────────────────────────────────────────────────────────────
+  [extracted   ]  scheme_guidelines               0 ch  PM-KISAN Operational Guidelines English
+
+========================================================================
+EXTRACTED : 25 / 26
+DATA DIR  : /Users/lalithmachavarapu/Desktop/NLP/saarthi_data
+========================================================================

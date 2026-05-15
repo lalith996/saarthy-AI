@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/lalithmachavarapu/Desktop/NLP/scraper.py", line 28, in <module>
+    import pdfplumber
+ModuleNotFoundError: No module named 'pdfplumber'

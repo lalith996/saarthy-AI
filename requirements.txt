@@ -1,0 +1,20 @@
+# Saarthi-AI Data Collection — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core scraping
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.1.0          # faster HTML parser for BeautifulSoup
+
+# PDF text extraction
+pdfplumber==0.10.3
+
+# Embedding & vector DB
+chromadb>=0.4.0
+sentence-transformers>=2.2.2
+tiktoken>=0.4.0
+
+# OCR fallback (optional — only needed for scanned PDFs)
+# If you have poppler and tesseract installed:
+# pdf2image==1.17.0
+# pytesseract==0.3.10
